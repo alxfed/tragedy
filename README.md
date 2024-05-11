@@ -1,10 +1,10 @@
-# Package name
-Package Name
+# Tragedy
+Tragedy (Ancient Greek: τραγῳδία) is one of the three principal theatrical genres.
 <pre>
-  pip install independent-machine
+  pip install tragedy
 </pre>
 Then:
 ```Python
   # Python
-  import independent_machine
+  import tragedy
 ```
